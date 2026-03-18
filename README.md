@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aarón
 
 🎓 **Multiplatform Application Development (DAM) Student**  
-📍 Almería, Spain  
+📍 Spain
 💻 New GitHub user exploring the world of software development
 
 
