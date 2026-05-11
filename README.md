@@ -18,17 +18,17 @@
   <tr>
     <td width="50%" align="left">
       <img src="assets/logos/icons8-html-5.svg" width="20" height="20" /> <b>HTML5</b><br>
-      <code>▰▰▰▰▰▰▰▱▱▱</code> <b>75%</b>
+      <code>▰▰▰▰▰▱▱▱▱▱</code> <b>50%</b>
     </td>
     <td width="50%" align="left">
       <img src="assets/logos/icons8-java.svg" width="20" height="20" /> <b>Java</b><br>
-      <code>▰▰▰▰▰▰▱▱▱▱</code> <b>60%</b>
+      <code>▰▰▰▰▰▱▱▱▱▱</code> <b>50%</b>
     </td>
   </tr>
   <tr>
     <td width="50%" align="left">
       <img src="assets/logos/icons8-css3.svg" width="20" height="20" /> <b>CSS3</b><br>
-      <code>▰▰▰▰▰▱▱▱▱▱</code> <b>50%</b>
+      <code>▰▰▰▱▱▱▱▱▱▱</code> <b>30%</b>
     </td>
     <td width="50%" align="left">
       <img src="assets/logos/icons8-oracle.svg" width="20" height="20" /> <b>Oracle DB</b><br>
@@ -42,16 +42,14 @@
     </td>
     <td width="50%" align="left">
       <img src="assets/logos/icons8-javascript.svg" width="20" height="20" /> <b>JavaScript</b><br>
-      <code>▰▱▱▱▱▱▱▱▱▱</code> <b>10%</b>
+      <code>▰▱▱▱▱▱▱▱▱▱</code> <b>5%</b>
     </td>
   </tr>
 </table>
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Labaguettee33&theme=dracula&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Labaguettee33&theme=dracula&show_icons=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Labaguettee33&layout=compact&theme=dracula&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Labaguettee33&theme=dracula&hide_border=true) 
 
 
 ## 🌐 Connect With Me
