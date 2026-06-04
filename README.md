@@ -27,12 +27,12 @@
   </tr>
   <tr>
     <td width="50%" align="left">
-      <img src="assets/logos/icons8-css3.svg" width="20" height="20" /> <b>CSS3</b><br>
-      <code>▰▰▰▱▱▱▱▱▱▱</code> <b>30%</b>
-    </td>
-    <td width="50%" align="left">
       <img src="assets/logos/icons8-oracle.svg" width="20" height="20" /> <b>Oracle DB</b><br>
       <code>▰▰▰▰▱▱▱▱▱▱</code> <b>45%</b>
+    </td>
+    <td width="50%" align="left">
+      <img src="assets/logos/icons8-css3.svg" width="20" height="20" /> <b>CSS3</b><br>
+      <code>▰▰▰▱▱▱▱▱▱▱</code> <b>30%</b>
     </td>
   </tr>
   <tr>
@@ -42,6 +42,16 @@
     </td>
     <td width="50%" align="left">
       <img src="assets/logos/icons8-javascript.svg" width="20" height="20" /> <b>JavaScript</b><br>
+      <code>▰▱▱▱▱▱▱▱▱▱</code> <b>10%</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left">
+      <img src="assets/logos/icons8-typescript.svg" width="20" height="20" /> <b>TypeScript</b><br>
+      <code>▰▱▱▱▱▱▱▱▱▱</code> <b>5%</b>
+    </td>
+    <td width="50%" align="left">
+      <img src="assets/logos/icons8-mongodb.svg" width="20" height="20" /> <b>MongoDB</b><br>
       <code>▰▱▱▱▱▱▱▱▱▱</code> <b>5%</b>
     </td>
   </tr>
